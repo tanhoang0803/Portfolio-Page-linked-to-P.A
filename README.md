@@ -1,4 +1,4 @@
-## Project 1: Portfolio Page
+## Project: Portfolio Page
 
 | | |
 |---|---|
