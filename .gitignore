@@ -1,0 +1,11 @@
+# Exclude the analytics sub-project (it has its own repo)
+product-sales-analytics/
+
+# Editor & tool config
+.vscode/
+.claude/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
