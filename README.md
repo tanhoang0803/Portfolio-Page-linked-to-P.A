@@ -4,7 +4,7 @@
 |---|---|
 | **Type** | Static HTML (single file, no build step) |
 | **File** | `Portfolio Version/index.html` |
-| **Live URL** | https://Portfolio-Page-linked-to-P.A |
+| **Live URL** | https://tanhoang0803.github.io/Portfolio-Page-linked-to-P.A/ |
 | **GitHub repo** | https://github.com/tanhoang0803/Portfolio-Page-linked-to-P.A |
 | **Stack** | HTML, Tailwind CSS (CDN), Google Fonts (Inter) |
 
