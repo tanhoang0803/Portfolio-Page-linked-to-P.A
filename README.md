@@ -54,4 +54,10 @@ This project was built as part of the [roadmap.sh Portfolio Website](https://roa
 
 ---
 
+## Contact
+
+**Email:** Hoangquoctan.1996@gmail.com
+
+---
+
 *Built to demonstrate data analytics skills and project experience.*
