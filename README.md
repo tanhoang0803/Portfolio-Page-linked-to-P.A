@@ -61,3 +61,7 @@ This project was built as part of the [roadmap.sh Portfolio Website](https://roa
 ---
 
 *Built to demonstrate data analytics skills and project experience.*
+
+---
+
+Created by [@TanQHoang](https://github.com/tanhoang0803) · 2026
